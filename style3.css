@@ -1,0 +1,41 @@
+body{
+    background-image: url("background.jpg") ;
+    background-size: cover;
+    font-family: 'Nova Script';
+    background-repeat: no-repeat;
+
+   
+
+}
+.hi{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    height: 250px;
+    width: 250px;
+}
+.red{
+    color: rgb(195, 0, 255);
+}
+h1{
+    color: white;
+    display: inline;
+}
+p{
+    color:rgb(155, 9, 16);
+    font-size: 24px;
+}
+#list{
+    color: rgb(81, 9, 248);
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+}
+#logo{
+    border-radius: 8px;
+    border-image: solid;
+    border-radius: 50%;
+    margin: center;
+
+}
